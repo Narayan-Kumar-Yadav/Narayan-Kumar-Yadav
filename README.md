@@ -208,7 +208,7 @@ Open to             →  Internships | Freelance | Open Source collabs
 
 [![Email](https://img.shields.io/badge/Email-narayankumaryadav2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narayankumaryadav2007@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-narayankumaryadav.link-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://narayankumaryadav.link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narayan-kumar-yadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/narayan-kumar-yadav](https://www.linkedin.com/in/narayan-kumar-yadav-3808943b7/))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narayan-Kumar-Yadav)
 
 </div>
