@@ -161,17 +161,17 @@ const narayan = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Next.js Boilerplate</h3>
+      <h3 align="center">⚡ Chatty</h3>
       <div align="center">
-        <a href="https://github.com/Narayan-Kumar-Yadav/nextjs-boilerplate" target="_blank">
+        <a href="https://github.com/Narayan-Kumar-Yadav/Chatty target="_blank">
           <img src="https://img.shields.io/badge/VIEW%20PROJECT-%2300FF88?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </div>
       <br/>
       <p align="center">
-        <strong>Production-Ready Starter Template</strong><br/>
-        TypeScript-first Next.js boilerplate with best practices,<br/>
-        folder structure, and dev setup baked in. 🛠️
+        <strong>Chatty — Real-time chat applicatione</strong><br/>
+        Next.js, Firebase, and Socket.io featuring media messaging,<br/>
+        push notifications, and scalable architecture. 🛠️
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
